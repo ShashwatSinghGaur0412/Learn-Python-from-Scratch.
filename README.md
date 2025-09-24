@@ -6,9 +6,9 @@ I will upload code day by day as I explore syntax, concepts, and small projects.
 ---
 
 ## 📅 Progress
-- **Day 1** → What is Python, What is Programming Language, What is Language, Installing Python & VS Code (with extensions), Using print(), Syntax, Indentation, and Comments (single-line & multi-line)
-- **Day 2** → (will update soon...)
-- **Day 3** → (will update soon...)
+- **01** → What is Python, What is Programming Language, What is Language, Installing Python & VS Code (with extensions), Using print()
+- **02** → Syntax, Indentation, and Comments (single-line & multi-line)
+- **03** → (will update soon...)
 
 ---
 
